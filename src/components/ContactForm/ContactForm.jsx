@@ -55,7 +55,7 @@ export class ContactForm extends Component {
             onChange={this.handleChange}
           />
         </FormLabel>
-        <FormButtonSubmit type="submit">Add</FormButtonSubmit>
+        <FormButtonSubmit type="submit">Add contact</FormButtonSubmit>
       </FormWrapper>
     );
   }
